@@ -5,8 +5,7 @@
   "main": "serve.js",
   "scripts": {
     "start": "node serve/serve.js" ,
-    
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fabian Miliani",
   "license": "ISC",
